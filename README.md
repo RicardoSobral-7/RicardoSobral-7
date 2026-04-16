@@ -19,6 +19,9 @@
   <a href="https://github.com/RicardoSobral-7">
     <img src="https://img.shields.io/badge/GitHub-RicardoSobral--7-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/ricardo-sobral7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Sobral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
