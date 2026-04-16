@@ -19,9 +19,6 @@
   <a href="https://github.com/RicardoSobral-7">
     <img src="https://img.shields.io/badge/GitHub-RicardoSobral--7-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.youtube.com/@RicardoSobral7">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
