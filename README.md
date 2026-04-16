@@ -41,21 +41,29 @@
 ![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://custom-icon-badges.demolab.com/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=0F172A)
 ![Styled Components](https://custom-icon-badges.demolab.com/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://custom-icon-badges.demolab.com/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://custom-icon-badges.demolab.com/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
 ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://custom-icon-badges.demolab.com/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://custom-icon-badges.demolab.com/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://custom-icon-badges.demolab.com/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://custom-icon-badges.demolab.com/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
 ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://custom-icon-badges.demolab.com/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CI/CD](https://custom-icon-badges.demolab.com/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
