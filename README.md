@@ -69,10 +69,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" width="380" src="https://github-readme-stats.vercel.app/api?username=RicardoSobral-7&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
-  <img height="170" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSobral-7&layout=compact&theme=tokyonight" />
-</p>
+<div align="center" style="display:flex; justify-content:space-between; gap:8px; width:100%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RicardoSobral-7&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSobral-7&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
