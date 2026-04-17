@@ -52,7 +52,6 @@
 ![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://custom-icon-badges.demolab.com/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
